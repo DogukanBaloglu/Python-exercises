@@ -1,0 +1,85 @@
+Fernando Muslera,Galatasaray
+Batuhan Ahmet Şen,Galatasaray
+Burak Yılmaz,Beşiktaş
+Tyler Boyd,Beşiktaş	
+Okan Kocuk,Galatasaray
+Şener Özbayraklı,Galatasaray
+Ömer Bayram,Galatasaray
+Mariano Ferreira Filho,Galatasaray
+Necip Uysal,Beşiktaş
+Güven Yalçın,Beşiktaş
+Yuto Nagatomo,Galatasaray
+Jean Michaël Seri,Galatasaray
+Deniz Yılmaz,Fenerbahçe
+Emre Belözoğlu,Fenerbahçe
+Adem Büyük,Galatasaray
+Selçuk İnan,Galatasaray
+Younes Belhanda,Galatasaray
+Ryan Donk,Galatasaray
+Emre Akbaba,Galatasaray
+Jakup Jimmy Durmaz,Galatasaray
+Atalay Babacan,Galatasaray
+Taylan Antalyalı,Galatasaray
+Sofiane Feghouli,Galatasaray
+Steven Nkemboanza Mike Christopher Nzonzi,Galatasaray
+Mario Rene Junior Lemina,Galatasaray
+Radamel Falcao Garcia Zarate,Galatasaray
+Ryan Babel,Galatasaray
+Yunus Akgün,Galatasaray
+Florin Andone,Galatasaray
+Emre Mor,Galatasaray
+Harun Tekin,Fenerbahçe
+Erten Ersu,Fenerbahçe
+Altay Bayındır,Fenerbahçe
+Hasan Ali Kaldırım,Fenerbahçe
+Mauricio Aníbal Isla Isla,Fenerbahçe
+Serdar Aziz,Fenerbahçe
+Sadık Çiftpınar,Fenerbahçe
+Murat Sağlam,Fenerbahçe
+Mathias Jattah-Njie Jørgensen,Fenerbahçe
+Jeremain Lens,Beşiktaş
+Umut Nayir,Beşiktaş
+Adil Rami,Fenerbahçe
+Muhammet Ömer Çakı,Fenerbahçe
+Tolgay Ali Arslan,Fenerbahçe
+Ozan Tufan,Fenerbahçe
+Mehmet Ekici,Fenerbahçe
+Victor Moses,Fenerbahçe
+Tolga Ciğerci,Fenerbahçe
+Ferdi Erenay Kadıoğlu,Fenerbahçe
+Nabil Dirar,Fenerbahçe
+Emre Taşdemir,Galatasaray
+Ahmet Çalık,Galatasaray
+Deniz Türüç,Fenerbahçe
+Garry Mendes Rodrigues,Fenerbahçe
+Jaílson Marques Siqueira,Fenerbahçe
+Alper Potuk,Fenerbahçe
+Muhammed Gümüşkaya,Fenerbahçe
+Mevlüt Erdinç,Fenerbahçe
+Max Kruse,Fenerbahçe
+Vedat Muriqi,Fenerbahçe
+Loris Karius,Beşiktaş
+Ersin Destanoğlu,Beşiktaş
+Víctor Ruíz,Beşiktaş
+Enzo Roco,Beşiktaş
+Erdoğan Kaya,Beşiktaş
+Gökhan Gönül,Beşiktaş
+Douglas Pereira dos Santos,Beşiktaş
+Pedro Rebocho,Beşiktaş
+Caner Erkin,Beşiktaş
+Domagoj Vida,Beşiktaş
+Kartal Kayra Yılmaz,Beşiktaş
+Mohamed Naser Elsayed Elneny,Beşiktaş
+Dorukhan Toköz,Beşiktaş
+Atiba Hutchinson,Beşiktaş
+Erdem Seçgin,Beşiktaş
+Adem Ljajić,Beşiktaş
+Georges-Kevin N'Koudou Mbida,Beşiktaş
+Christian Luyindama,Galatasaray
+Marcos do Nascimento Teixeira,Galatasaray
+Muhayer Oktay,Beşiktaş
+Orkan Çınar,Beşiktaş
+Luiz Gustavo Dias,Fenerbahçe
+Miha Zajc,Fenerbahçe
+Oğuzhan Özyakup,Beşiktaş
+Abdoulay Diaby,Beşiktaş
