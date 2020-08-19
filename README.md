@@ -1,4 +1,4 @@
 # Python-exercises
 
 ### Amaç: 
-##### Bu kodları burada paylaşıyor olmamdaki **amaç** *öğrenmeye başladığım pythondaki zaman içerisndeki ilerlememi görmek ve aynı zamanda ortaya çıkabilecek güzel çalışmaları koruyabilmektir.Herhangi bir kar amacı güdülmemiştir...*
+##### Bu kodları burada paylaşıyor olmamdaki **amaç** *öğrenmeye başladığım pythondaki zaman içerisndeki ilerlememi görmek ve aynı zamanda ortaya çıkabilecek güzel çalışmaları koruyabilmektir...*
